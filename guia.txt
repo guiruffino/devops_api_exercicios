@@ -1,0 +1,10 @@
+LEMBRANDO - Para criar um projeto: 
+1 - criar uma pasta e dentro dela:
+	2 - Inicializar o projeto Nodejs: npm init -y
+	3 - Instalar o Express: npm install express
+	4 - Abrir o Projeto no VSCode e alterar o "main" do arquivo 	package.json de index.js para app.js
+	5 - Criar o arquivo app.js que ira ter a logica de nossa API
+6 - Para testar podemos usar o complemento Thunder do VSCode
+7 - Ou criar um arquivo HTML com um form que passara as info para API, lembrando este arquivo deve estar dentro da mesma pasta do "app.js"
+8 - Nao esquecer que para executar o projeto sempre executando o app.js
+9 - Abrir no Browser sempre utilizando: http://localhost:Sua_porta - Exemplo:http://localhost:3000
